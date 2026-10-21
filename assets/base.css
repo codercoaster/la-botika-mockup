@@ -70,7 +70,10 @@ body {
   background: var(--color-bg);
   -webkit-font-smoothing: antialiased;
   overflow-x: clip;
+  cursor: default;
 }
+input:not([type="button"], [type="submit"], [type="reset"], [type="checkbox"], [type="radio"], [type="range"], [type="color"], [type="file"]),
+textarea, [contenteditable]:not([contenteditable="false"]) { cursor: text; }
 img, svg, picture { display: block; max-width: 100%; }
 img { height: auto; }
 button, input, select, textarea { font: inherit; color: inherit; }
@@ -116,7 +119,7 @@ html.lenis, html.lenis body { height: auto; }
   flex-wrap: wrap;
   margin-bottom: clamp(1.5rem, 1rem + 1.5vw, 2.5rem);
 }
-.section-heading h2 { font-size: var(--h2); }
+.section-heading h2 { font-size: var(--h2); margin-left: -0.04em; } /* optical: large glyphs carry wider side bearing */
 .section-heading p { color: var(--color-muted); margin-top: 0.35rem; max-width: 52ch; }
 
 .eyebrow {

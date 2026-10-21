@@ -1,5 +1,6 @@
 /* Section: category-showcase */
-.section-category-showcase + .section-category-showcase .category-showcase { padding-top: 0; }
+.section-category-showcase + .section-category-showcase .category-showcase,
+.section-product-rail + .section-category-showcase .category-showcase { padding-top: 0; }
 
 .category-showcase__inner {
   display: grid;
@@ -56,7 +57,14 @@
   background: #fff;
   box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.35);
 }
-.category-showcase__figure img { width: 100%; height: 100%; object-fit: contain; }
+.category-showcase__figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.5s var(--ease);
+}
+/* Slightly stronger than .product-card's 1.06 — the featured product leads. */
+.category-showcase__art:hover .category-showcase__figure img { transform: scale(1.1); }
 
 @media (min-width: 990px) {
   .category-showcase__art { width: 80%; margin-block: auto; }

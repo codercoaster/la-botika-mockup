@@ -1,6 +1,6 @@
 <!--
   Section: product-rail → sections/product-rail.liquid
-  Settings: eyebrow, title, subtitle, collections, on_sale, limit, link, tone.
+  Settings: title, subtitle, collections, on_sale, limit, link, tone.
   In Liquid the cards are rendered server-side by looping the chosen collection and
   {% render 'product-card' %}; here JS fills [data-track] from data/products.js.
 -->
@@ -13,7 +13,6 @@
   <div class="container">
     <div class="section-heading" data-reveal>
       <div>
-        <p class="eyebrow">{{ section.settings.eyebrow }}</p>
         <h2 id="{{ section.id }}-title">{{ section.settings.title }}</h2>
         <p>{{ section.settings.subtitle }}</p>
       </div>

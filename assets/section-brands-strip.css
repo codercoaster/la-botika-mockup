@@ -4,6 +4,7 @@
 
 .brands-strip__viewport {
   overflow: hidden;
+  padding-block: 8px; /* room for the hover scale so the cards aren't clipped */
   -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
   mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
 }
@@ -21,10 +22,11 @@
   background: #fff;
   border-radius: var(--radius);
   box-shadow: 0 0 0 1px var(--color-border);
-  transition: box-shadow 0.3s, transform 0.3s var(--ease);
+  transition: transform 0.3s var(--ease);
 }
-.brands-strip__group li:hover { box-shadow: var(--shadow); transform: translateY(-3px); }
-.brands-strip__group img { width: 78%; height: auto; }
+.brands-strip__group li:hover { transform: scale(1.04); }
+.brands-strip__group img { width: 78%; height: auto; transition: transform 0.4s var(--ease); }
+.brands-strip__group li:hover img { transform: scale(1.06); }
 
 @media (prefers-reduced-motion: reduce) {
   .brands-strip__viewport { -webkit-mask-image: none; mask-image: none; }
