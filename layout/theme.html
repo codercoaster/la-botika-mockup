@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page_title }}</title>
+  <meta name="description" content="Farmacia La Botika: más de 17 años cuidando la salud de las familias de Santiago. Medicamentos a precio justo, convenio CENABAST y 16 sucursales.">
+  <meta name="theme-color" content="#e0171f">
+  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+
+  <script>
+    // Motion start states (e.g. hidden reveals) only apply when this class is present.
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('motion');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap">
+
+  <link rel="stylesheet" href="assets/base.css">
+  <link rel="stylesheet" href="assets/product-card.css">
+  {{ section_styles }}
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js" defer></script>
+  <script src="data/products.js" defer></script>
+  <script src="assets/theme.js" defer></script>
+  <script src="assets/motion.js" defer></script>
+  <script src="assets/product-card.js" defer></script>
+  {{ section_scripts }}
+</head>
+<body>
+  <a class="skip-link button" href="#main">Saltar al contenido</a>
+
+  <!-- @section announcement-bar -->
+  <!-- @section header -->
+
+  <main id="main">
+    {{ content_for_layout }}
+  </main>
+
+  <!-- @section footer -->
+
+  <!-- @snippet product-card -->
+</body>
+</html>

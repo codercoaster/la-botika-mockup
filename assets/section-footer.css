@@ -1,0 +1,78 @@
+/* Section: footer */
+.site-footer {
+  background: var(--color-blue);
+  color: rgba(255, 255, 255, 0.85);
+  padding-top: clamp(3rem, 2rem + 3vw, 5rem);
+  font-size: var(--text-sm);
+}
+.site-footer__top {
+  display: grid;
+  gap: 2.5rem;
+  padding-bottom: 3rem;
+}
+@media (min-width: 768px) { .site-footer__top { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 1100px) { .site-footer__top { grid-template-columns: 1.6fr 1fr 1fr 1.2fr; gap: 3rem; } }
+
+.site-footer__logo {
+  display: inline-block;
+  padding: 0.75rem 1.1rem;
+  background: #fff;
+  border-radius: var(--radius);
+}
+.site-footer__logo img { height: 44px; width: auto; }
+.site-footer__brand > p { margin-top: 1rem; max-width: 38ch; }
+
+.site-footer__newsletter { margin-top: 1.5rem; max-width: 420px; }
+.site-footer__newsletter label { display: block; font-weight: 800; color: #fff; margin-bottom: 0.5rem; }
+.site-footer__newsletter div { display: flex; gap: 0.5rem; }
+.site-footer__newsletter input {
+  flex: 1;
+  min-width: 0;
+  min-height: var(--tap);
+  padding: 0 1.1rem;
+  border: 0;
+  border-radius: var(--radius-pill);
+  background: #fff;
+  color: var(--color-text);
+}
+
+.site-footer h3 { color: #fff; font-size: var(--text-base); margin-bottom: 0.9rem; }
+.site-footer__col ul { list-style: none; display: grid; gap: 0.15rem; }
+.site-footer__col a:not(.site-footer__phone) {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  transition: color 0.2s;
+}
+.site-footer__col a:hover { color: #fff; text-decoration: underline; text-underline-offset: 4px; }
+
+.site-footer__help { display: grid; gap: 0.6rem; align-content: start; }
+.site-footer__phone {
+  display: grid;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.08);
+  transition: background-color 0.2s;
+}
+.site-footer__phone:hover { background: rgba(255, 255, 255, 0.16); text-decoration: none !important; }
+.site-footer__phone span { font-size: var(--text-xs); color: var(--color-blue-light); }
+.site-footer__phone strong { color: #fff; font-size: var(--text-lg); }
+
+.site-footer__bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-block: 1.5rem;
+  border-top: 1px solid rgba(163, 175, 239, 0.3);
+  font-size: var(--text-xs);
+}
+.site-footer__payments { display: flex; flex-wrap: wrap; gap: 0.5rem; list-style: none; }
+.site-footer__payments li {
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  background: #fff;
+  color: var(--color-blue);
+  font-weight: 800;
+}

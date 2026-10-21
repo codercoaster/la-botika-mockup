@@ -1,0 +1,29 @@
+<!--
+  Section: category-showcase → sections/category-showcase.liquid
+  Settings: collection, eyebrow, title, text, image, panel_bg, panel_ink, layout (""|"reverse").
+-->
+<link rel="stylesheet" href="assets/section-category-showcase.css">
+<script src="assets/section-category-showcase.js" defer></script>
+
+<section class="category-showcase section" data-section="category-showcase" data-collection="{{ section.settings.collection }}"
+  style="--panel-bg: {{ section.settings.panel_bg }}; --panel-ink: {{ section.settings.panel_ink }}" aria-labelledby="{{ section.id }}-title">
+  <div class="container category-showcase__inner category-showcase__inner--{{ section.settings.layout }}">
+    <div class="category-showcase__panel" data-reveal>
+      <div class="category-showcase__copy">
+        <p class="eyebrow">{{ section.settings.eyebrow }}</p>
+        <h2 id="{{ section.id }}-title">{{ section.settings.title }}</h2>
+        <p>{{ section.settings.text }}</p>
+        <a class="button button--white" href="collection.html">Ver categoría
+          <svg class="icon icon--sm" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+      <div class="category-showcase__art" aria-hidden="true">
+        <span class="category-showcase__ring"></span>
+        <figure class="category-showcase__figure" data-parallax>
+          <img src="{{ section.settings.image }}" alt="" width="800" height="800" loading="lazy">
+        </figure>
+      </div>
+    </div>
+    <ul class="category-showcase__grid" role="list" data-grid></ul>
+  </div>
+</section>

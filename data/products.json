@@ -1,0 +1,2031 @@
+[
+  {
+    "id": 15887322087584,
+    "title": "Vitamina C 1000 mg Comprimidos Masticables x 30",
+    "handle": "vitamina-c-1000-mg-comprimidos-masticables-x-30-18203",
+    "vendor": "CURAESPRING",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 3690,
+    "compare_at_price": 4990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/vitamina-c-1000-mg-comprimidos-masticables-x-30-18203.png",
+      "alt": "Vitamina C 1000 mg Comprimidos Masticables x 30",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/vitamina-c-1000-mg-comprimidos-masticables-x-30-18203.png",
+        "alt": "Vitamina C 1000 mg Comprimidos Masticables x 30",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 17208",
+      "CURAESPRING",
+      "Farmaco Natural",
+      "OTC",
+      "OTROS",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "Vitaminas",
+      "Vitaminas y Minerales Naturales",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Vitaminas y Minerales Naturales",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "1000 mg"
+      }
+    }
+  },
+  {
+    "id": 15887321989280,
+    "title": "Vitamina B12 12 mcg Comprimidos x 100",
+    "handle": "vitamina-b12-12-mcg-comprimidos-x-100-20385",
+    "vendor": "CURAESPRING",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 5290,
+    "compare_at_price": 6990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/vitamina-b12-12-mcg-comprimidos-x-100-20385.png",
+      "alt": "Vitamina B12 12 mcg Comprimidos x 100",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/vitamina-b12-12-mcg-comprimidos-x-100-20385.png",
+        "alt": "Vitamina B12 12 mcg Comprimidos x 100",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20385",
+      "CURAESPRING",
+      "Farmaco Natural",
+      "OTC",
+      "OTROS",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "Vitaminas",
+      "Vitaminas y Minerales Naturales",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Vitamina B12",
+        "accion_terapeutica": "Vitaminas y Minerales Naturales",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "12 mcg"
+      }
+    }
+  },
+  {
+    "id": 15887321923744,
+    "title": "Vitagenil Cápsulas x 10",
+    "handle": "vitagenil-capsulas-x-10-21899",
+    "vendor": "LABORATORIO SCL",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 2990,
+    "compare_at_price": 3990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/vitagenil-capsulas-x-10-21899.png",
+      "alt": "Vitagenil Cápsulas x 10",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/vitagenil-capsulas-x-10-21899.png",
+        "alt": "Vitagenil Cápsulas x 10",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 21899",
+      "Farmaco Natural",
+      "LABORATORIO SCL",
+      "OTC",
+      "OTROS",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "Caps."
+      }
+    }
+  },
+  {
+    "id": 15887321727136,
+    "title": "Vitaflora Pylori Cápsulas x 30",
+    "handle": "vitaflora-pylori-capsulas-x-30-21898",
+    "vendor": "LABORATORIO SCL",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 17990,
+    "compare_at_price": 20990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/vitaflora-pylori-capsulas-x-30-21898.png",
+      "alt": "Vitaflora Pylori Cápsulas x 30",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/vitaflora-pylori-capsulas-x-30-21898.png",
+        "alt": "Vitaflora Pylori Cápsulas x 30",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 21898",
+      "Farmaco Natural",
+      "LABORATORIO SCL",
+      "OTC",
+      "OTROS",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "Caps."
+      }
+    }
+  },
+  {
+    "id": 15887321596064,
+    "title": "Vitaflora Plus Cápsulas x 60",
+    "handle": "vitaflora-plus-capsulas-x-60-21897",
+    "vendor": "LABORATORIO SCL",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 24990,
+    "compare_at_price": 28990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/vitaflora-plus-capsulas-x-60-21897.png",
+      "alt": "Vitaflora Plus Cápsulas x 60",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/vitaflora-plus-capsulas-x-60-21897.png",
+        "alt": "Vitaflora Plus Cápsulas x 60",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 21897",
+      "Farmaco Natural",
+      "LABORATORIO SCL",
+      "OTC",
+      "OTROS",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "Caps."
+      }
+    }
+  },
+  {
+    "id": 15887321530528,
+    "title": "UP Omega 3 Cápsulas x 120",
+    "handle": "up-omega-3-capsulas-x-120-20636",
+    "vendor": "NEWSCIENCE",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 34990,
+    "compare_at_price": 40990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/up-omega-3-capsulas-x-120-20636.png",
+      "alt": "UP Omega 3 Cápsulas x 120",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/up-omega-3-capsulas-x-120-20636.png",
+        "alt": "UP Omega 3 Cápsulas x 120",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20636",
+      "Farmaco Natural",
+      "NEWSCIENCE",
+      "Omega 3",
+      "OTC",
+      "OTROS",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "Caps."
+      }
+    }
+  },
+  {
+    "id": 15887321432224,
+    "title": "Tomiseptin Jarabe 750 mg/5 ml",
+    "handle": "tomiseptin-jarabe-750-mg-5-ml-20350",
+    "vendor": "LABORATORIO CHILE/TEVA",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 10590,
+    "compare_at_price": 12990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/tomiseptin-jarabe-750-mg-5-ml-20350.png",
+      "alt": "Tomiseptin Jarabe 750 mg/5 ml",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/tomiseptin-jarabe-750-mg-5-ml-20350.png",
+        "alt": "Tomiseptin Jarabe 750 mg/5 ml",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20350",
+      "Farmaco Natural",
+      "Hierbas Medicinales",
+      "LABORATORIO CHILE/TEVA",
+      "OTC",
+      "OTROS",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Hierbas Medicinales",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Jarabe",
+        "presentacion": "750 mg"
+      }
+    }
+  },
+  {
+    "id": 15887321039008,
+    "title": "Regenesis Ultra Cápsulas x 30",
+    "handle": "regenesis-ultra-capsulas-x-30-21608",
+    "vendor": "EXELTIS",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 27990,
+    "compare_at_price": 32990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/regenesis-ultra-capsulas-x-30-21608.png",
+      "alt": "Regenesis Ultra Cápsulas x 30",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/regenesis-ultra-capsulas-x-30-21608.png",
+        "alt": "Regenesis Ultra Cápsulas x 30",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 21608",
+      "EXELTIS",
+      "Farmaco Natural",
+      "OTC",
+      "OTROS",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "Caps."
+      }
+    }
+  },
+  {
+    "id": 15887320940704,
+    "title": "QG5 Comprimidos x 30",
+    "handle": "qg5-comprimidos-x-30-20930",
+    "vendor": "GENOMMA LAB",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 14590,
+    "compare_at_price": 21990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/qg5-comprimidos-x-30-20930.png",
+      "alt": "QG5 Comprimidos x 30",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/qg5-comprimidos-x-30-20930.png",
+        "alt": "QG5 Comprimidos x 30",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20930",
+      "GENOMMA LAB",
+      "MARCAS",
+      "Medicamentos",
+      "OTC",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "Vitaminas y Minerales",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Vitaminas y Minerales",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "Comp."
+      }
+    }
+  },
+  {
+    "id": 15887320842400,
+    "title": "Propoleo Eucalyptus y Mentol Caramelo x 10",
+    "handle": "propoleo-eucalyptus-y-mentol-caramelo-x-10-22096",
+    "vendor": "SUPLALIM",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 1390,
+    "compare_at_price": 1990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/propoleo-eucalyptus-y-mentol-caramelo-x-10-22096.png",
+      "alt": "Propoleo Eucalyptus y Mentol Caramelo x 10",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/propoleo-eucalyptus-y-mentol-caramelo-x-10-22096.png",
+        "alt": "Propoleo Eucalyptus y Mentol Caramelo x 10",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 22096",
+      "Farmaco Natural",
+      "OTC",
+      "OTROS",
+      "SUPLALIM",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Caramelos",
+        "presentacion": "Comp."
+      }
+    }
+  },
+  {
+    "id": 15887320547488,
+    "title": "Natrium Phosphoricum D6 x 90",
+    "handle": "natrium-phosphoricum-d6-x-90-20873",
+    "vendor": "KNOP",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 5890,
+    "compare_at_price": 6990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/natrium-phosphoricum-d6-x-90-20873.png",
+      "alt": "Natrium Phosphoricum D6 x 90",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/natrium-phosphoricum-d6-x-90-20873.png",
+        "alt": "Natrium Phosphoricum D6 x 90",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20873",
+      "Farmaco Natural",
+      "KNOP",
+      "OTC",
+      "OTROS",
+      "Suplemento",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Suplemento",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "Comp."
+      }
+    }
+  },
+  {
+    "id": 15887320416416,
+    "title": "Muno Gotas x 10 ml",
+    "handle": "muno-gotas-x-10-ml-21859",
+    "vendor": "AXON PHARMA",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 24990,
+    "compare_at_price": 28990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/muno-gotas-x-10-ml-21859.png",
+      "alt": "Muno Gotas x 10 ml",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/muno-gotas-x-10-ml-21859.png",
+        "alt": "Muno Gotas x 10 ml",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "AXON PHARMA",
+      "CM 18573",
+      "MARCAS",
+      "Medicamentos",
+      "OTC",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "Vitaminas y Minerales",
+      "oferta"
+    ],
+    "collections": [
+      "vitaminas-y-minerales"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Vitaminas y Minerales",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Gotario",
+        "presentacion": "10 ml"
+      }
+    }
+  },
+  {
+    "id": 15921094623392,
+    "title": "Diclofenaco 1% Gel x 30g",
+    "handle": "diclofenaco-1-gel-x-30g-20159",
+    "vendor": "CURAESPRING",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 2890,
+    "compare_at_price": 3390,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/diclofenaco-1-gel-x-30g-20159.jpg",
+      "alt": "Diclofenaco 1% Gel x 30g",
+      "width": 600,
+      "height": 600
+    },
+    "images": [
+      {
+        "src": "assets/images/products/diclofenaco-1-gel-x-30g-20159.jpg",
+        "alt": "Diclofenaco 1% Gel x 30g",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "tags": [
+      "Con Receta",
+      "Dolor",
+      "Fiebre y Antiinflamatorio",
+      "Medicamentos",
+      "oferta"
+    ],
+    "collections": [
+      "dolor-fiebre-y-antiinflamatorio"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Diclofenac dietilamina",
+        "accion_terapeutica": "Analgésico, Antiinflamatorio",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Con Receta",
+        "forma_farmaceutica": "Gel",
+        "presentacion": "30 g"
+      }
+    }
+  },
+  {
+    "id": 15921094426784,
+    "title": "Paracetamol 500mg Comp. x 16",
+    "handle": "paracetamol-500mg-comp-x-16-20198",
+    "vendor": "LABORATORIO ANDROMACO",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 1190,
+    "compare_at_price": 1490,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/paracetamol-500mg-comp-x-16-20198.webp",
+      "alt": "Paracetamol 500mg Comp. x 16",
+      "width": 1050,
+      "height": 1050
+    },
+    "images": [
+      {
+        "src": "assets/images/products/paracetamol-500mg-comp-x-16-20198.webp",
+        "alt": "Paracetamol 500mg Comp. x 16",
+        "width": 1050,
+        "height": 1050
+      }
+    ],
+    "tags": [
+      "Directa",
+      "Dolor",
+      "Fiebre y Antiinflamatorio",
+      "Medicamentos",
+      "oferta"
+    ],
+    "collections": [
+      "dolor-fiebre-y-antiinflamatorio"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Paracetamol",
+        "accion_terapeutica": "Analgésico, Antipirético",
+        "bioequivalente": "Si",
+        "condicion_de_venta": "Directa",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "16 cap/comp"
+      }
+    }
+  },
+  {
+    "id": 15921094394016,
+    "title": "Naproxeno COM 550MG X10",
+    "handle": "naproxeno-com-550mg-x10-20245",
+    "vendor": "LABORATORIO ANDROMACO",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 2190,
+    "compare_at_price": 2590,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/naproxeno-com-550mg-x10-20245.jpg",
+      "alt": "Naproxeno COM 550MG X10",
+      "width": 500,
+      "height": 500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/naproxeno-com-550mg-x10-20245.jpg",
+        "alt": "Naproxeno COM 550MG X10",
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "tags": [
+      "Con Receta",
+      "Dolor",
+      "Fiebre y Antiinflamatorio",
+      "Medicamentos",
+      "oferta"
+    ],
+    "collections": [
+      "dolor-fiebre-y-antiinflamatorio"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Naproxeno",
+        "accion_terapeutica": "Analgésico",
+        "bioequivalente": "Si",
+        "condicion_de_venta": "Con Receta",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "10 cap/comp"
+      }
+    }
+  },
+  {
+    "id": 15909813190816,
+    "title": "Celecoxib 200mg Caps. x 30",
+    "handle": "celecoxib-200mg-caps-x-30-20573",
+    "vendor": "CURAESPRING",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 7990,
+    "compare_at_price": 8990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/celecoxib-200mg-caps-x-30-20573.jpg",
+      "alt": "Celecoxib 200mg Caps. x 30",
+      "width": 800,
+      "height": 800
+    },
+    "images": [
+      {
+        "src": "assets/images/products/celecoxib-200mg-caps-x-30-20573.jpg",
+        "alt": "Celecoxib 200mg Caps. x 30",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "tags": [
+      "Con Receta",
+      "Dolor",
+      "Fiebre y Antiinflamatorio",
+      "Medicamentos",
+      "oferta"
+    ],
+    "collections": [
+      "dolor-fiebre-y-antiinflamatorio"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Celecoxib",
+        "accion_terapeutica": "Analgésico",
+        "bioequivalente": "Si",
+        "condicion_de_venta": "Con Receta",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "30"
+      }
+    }
+  },
+  {
+    "id": 15909813092512,
+    "title": "Celecoxib 200mg Caps. x 10",
+    "handle": "celecoxib-200mg-caps-x-10-20156",
+    "vendor": "CURAESPRING",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 5290,
+    "compare_at_price": 5990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/celecoxib-200mg-caps-x-10-20156.png",
+      "alt": "Celecoxib 200mg Caps. x 10",
+      "width": 347,
+      "height": 319
+    },
+    "images": [
+      {
+        "src": "assets/images/products/celecoxib-200mg-caps-x-10-20156.png",
+        "alt": "Celecoxib 200mg Caps. x 10",
+        "width": 347,
+        "height": 319
+      }
+    ],
+    "tags": [
+      "Con Receta",
+      "Dolor",
+      "Fiebre y Antiinflamatorio",
+      "Medicamentos",
+      "oferta"
+    ],
+    "collections": [
+      "dolor-fiebre-y-antiinflamatorio"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Celecoxib",
+        "accion_terapeutica": "Analgésico, Antiinflamatorio",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Con Receta",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "10"
+      }
+    }
+  },
+  {
+    "id": 15909815451808,
+    "title": "Ibucalm 600MG cap. blandas X 20",
+    "handle": "ibucalm-600mg-cap-blandas-x-20-22302",
+    "vendor": "OPKO",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 7590,
+    "compare_at_price": 8590,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/ibucalm-600mg-cap-blandas-x-20-22302.jpg",
+      "alt": "Ibucalm 600MG cap. blandas X 20",
+      "width": 447,
+      "height": 447
+    },
+    "images": [
+      {
+        "src": "assets/images/products/ibucalm-600mg-cap-blandas-x-20-22302.jpg",
+        "alt": "Ibucalm 600MG cap. blandas X 20",
+        "width": 447,
+        "height": 447
+      }
+    ],
+    "tags": [
+      "Dolor",
+      "Fiebre y Antiinflamatorio",
+      "Medicamentos",
+      "Over the counter",
+      "oferta"
+    ],
+    "collections": [
+      "dolor-fiebre-y-antiinflamatorio"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Ibuprofeno",
+        "accion_terapeutica": "Analgésico",
+        "bioequivalente": "Si",
+        "condicion_de_venta": "Over the counter",
+        "forma_farmaceutica": "Cápsulas",
+        "presentacion": "20"
+      }
+    }
+  },
+  {
+    "id": 15830618865824,
+    "title": "Eucerin pH5 Aceite de Ducha 200 ml",
+    "handle": "eucerin-ph5-aceite-de-ducha-200-ml-9552",
+    "vendor": "BEIERSDORF",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 13590,
+    "compare_at_price": 19990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/eucerin-ph5-aceite-de-ducha-200-ml-9552.png",
+      "alt": "Eucerin pH5 Aceite de Ducha 200 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/eucerin-ph5-aceite-de-ducha-200-ml-9552.png",
+        "alt": "Eucerin pH5 Aceite de Ducha 200 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "BEIERSDORF",
+      "CM 9552",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "EUCERIN",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "cuidado-de-la-piel"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "200 ml"
+      }
+    }
+  },
+  {
+    "id": 15830618833056,
+    "title": "Eucerin DermoPure Gel Limpiador Oil Control 400 ml",
+    "handle": "eucerin-dermopure-gel-limpiador-oil-control-400-ml-22475",
+    "vendor": "BEIERSDORF",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 19790,
+    "compare_at_price": 22990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/eucerin-dermopure-gel-limpiador-oil-control-400-ml-22475.webp",
+      "alt": "Eucerin DermoPure Gel Limpiador Oil Control 400 ml",
+      "width": 2000,
+      "height": 2000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/eucerin-dermopure-gel-limpiador-oil-control-400-ml-22475.webp",
+        "alt": "Eucerin DermoPure Gel Limpiador Oil Control 400 ml",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "tags": [
+      "BEIERSDORF",
+      "CM 22475",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "Eucerin",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "cuidado-de-la-piel"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "400 ml"
+      }
+    }
+  },
+  {
+    "id": 15830618800288,
+    "title": "Eucerin Capilar Shampoo Gel A/C 250 ml",
+    "handle": "eucerin-capilar-shampoo-gel-a-c-250-ml-14902",
+    "vendor": "BEIERSDORF",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 32990,
+    "compare_at_price": 37990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/eucerin-capilar-shampoo-gel-a-c-250-ml-14902.webp",
+      "alt": "Eucerin Capilar Shampoo Gel A/C 250 ml",
+      "width": 2000,
+      "height": 2000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/eucerin-capilar-shampoo-gel-a-c-250-ml-14902.webp",
+        "alt": "Eucerin Capilar Shampoo Gel A/C 250 ml",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "tags": [
+      "BEIERSDORF",
+      "CM 14902",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "EUCERIN",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "cuidado-de-la-piel"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "250 ml"
+      }
+    }
+  },
+  {
+    "id": 15830618767520,
+    "title": "Eucerin Atopi Control Spray Calmante Corporal 50 ml",
+    "handle": "eucerin-atopi-control-spray-calmante-corporal-50-ml-22639",
+    "vendor": "EUCERIN",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 19990,
+    "compare_at_price": 22990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/eucerin-atopi-control-spray-calmante-corporal-50-ml-22639.webp",
+      "alt": "Eucerin Atopi Control Spray Calmante Corporal 50 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/eucerin-atopi-control-spray-calmante-corporal-50-ml-22639.webp",
+        "alt": "Eucerin Atopi Control Spray Calmante Corporal 50 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "CM 22639",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "EUCERIN",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "cuidado-de-la-piel"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "50 ml"
+      }
+    }
+  },
+  {
+    "id": 15830618701984,
+    "title": "Eucerin Atopi Control Crema Corporal Forte 100 ml",
+    "handle": "eucerin-atopi-control-crema-corporal-forte-100-ml-22637",
+    "vendor": "EUCERIN",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 24990,
+    "compare_at_price": 28990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/eucerin-atopi-control-crema-corporal-forte-100-ml-22637.png",
+      "alt": "Eucerin Atopi Control Crema Corporal Forte 100 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/eucerin-atopi-control-crema-corporal-forte-100-ml-22637.png",
+        "alt": "Eucerin Atopi Control Crema Corporal Forte 100 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "CM 22637",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "EUCERIN",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "cuidado-de-la-piel"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "100 ml"
+      }
+    }
+  },
+  {
+    "id": 15830618669216,
+    "title": "Eucerin Atopi Control Bálsamo Corporal 400 ml",
+    "handle": "eucerin-atopi-control-balsamo-corporal-400-ml-22636",
+    "vendor": "EUCERIN",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 28990,
+    "compare_at_price": 33990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/eucerin-atopi-control-balsamo-corporal-400-ml-22636.png",
+      "alt": "Eucerin Atopi Control Bálsamo Corporal 400 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/eucerin-atopi-control-balsamo-corporal-400-ml-22636.png",
+        "alt": "Eucerin Atopi Control Bálsamo Corporal 400 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "CM 22636",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "EUCERIN",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "cuidado-de-la-piel"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "400 ml"
+      }
+    }
+  },
+  {
+    "id": 15814521421984,
+    "title": "Babyland Colonia Rosada 210 ml",
+    "handle": "babyland-colonia-rosada-210-ml-13433",
+    "vendor": "DURANDIN",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 2790,
+    "compare_at_price": 3990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/babyland-colonia-rosada-210-ml-13433.png",
+      "alt": "Babyland Colonia Rosada 210 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/babyland-colonia-rosada-210-ml-13433.png",
+        "alt": "Babyland Colonia Rosada 210 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo Bebe",
+      "Aseo y Cuidado Bebé y Madre",
+      "BABYLAND",
+      "CM 13433",
+      "DURANDIN",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "mundo-bebe"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Aseo Bebe",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "210 ml"
+      }
+    }
+  },
+  {
+    "id": 15814521487520,
+    "title": "Babyland Shampoo Brillitos Aceite de Argán 270 ml",
+    "handle": "babyland-shampoo-brillitos-aceite-de-argan-270-ml-17559",
+    "vendor": "DURANDIN",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 2490,
+    "compare_at_price": 2990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/babyland-shampoo-brillitos-aceite-de-argan-270-ml-17559.png",
+      "alt": "Babyland Shampoo Brillitos Aceite de Argán 270 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/babyland-shampoo-brillitos-aceite-de-argan-270-ml-17559.png",
+        "alt": "Babyland Shampoo Brillitos Aceite de Argán 270 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo Bebe",
+      "Aseo y Cuidado Bebé y Madre",
+      "BABYLAND",
+      "CM 17559",
+      "DURANDIN",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "mundo-bebe"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Aseo Bebe",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "270 ml"
+      }
+    }
+  },
+  {
+    "id": 15814521454752,
+    "title": "Babyland Emulsional 270 ml",
+    "handle": "babyland-emulsional-270-ml-666",
+    "vendor": "DURANDIN",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 2790,
+    "compare_at_price": 3990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/babyland-emulsional-270-ml-666.png",
+      "alt": "Babyland Emulsional 270 ml",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/babyland-emulsional-270-ml-666.png",
+        "alt": "Babyland Emulsional 270 ml",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo Bebe",
+      "Aseo y Cuidado Bebé y Madre",
+      "BABYLAND",
+      "CM 666",
+      "DURANDIN",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "mundo-bebe"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Aseo Bebe",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "270 ml"
+      }
+    }
+  },
+  {
+    "id": 15814521749664,
+    "title": "Formador de Pezón con Estuche",
+    "handle": "formador-de-pezon-con-estuche-14476",
+    "vendor": "PIGEON",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 9990,
+    "compare_at_price": 11990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/formador-de-pezon-con-estuche-14476.png",
+      "alt": "Formador de Pezón con Estuche",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/formador-de-pezon-con-estuche-14476.png",
+        "alt": "Formador de Pezón con Estuche",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo y Cuidado Bebé y Madre",
+      "CM 14476",
+      "Cuidado de la Madre",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS",
+      "PIGEON",
+      "oferta"
+    ],
+    "collections": [
+      "mundo-bebe"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Madre",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre"
+      }
+    }
+  },
+  {
+    "id": 15814521716896,
+    "title": "D'Hipoglós Crema 20 g",
+    "handle": "d-hipoglos-crema-20-g-6255",
+    "vendor": "LABORATORIO ANDROMACO",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 5990,
+    "compare_at_price": null,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/d-hipoglos-crema-20-g-6255.png",
+      "alt": "D'Hipoglós Crema 20 g",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/d-hipoglos-crema-20-g-6255.png",
+        "alt": "D'Hipoglós Crema 20 g",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo y Cuidado Bebé y Madre",
+      "CM 6255",
+      "Irritación y coceduras",
+      "LABORATORIO ANDROMACO",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS"
+    ],
+    "collections": [
+      "mundo-bebe"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Fotoprotector",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "20 g"
+      }
+    }
+  },
+  {
+    "id": 15814521684128,
+    "title": "Bepanthol Regeneradora Pomada 30 g",
+    "handle": "bepanthol-regeneradora-pomada-30-g-21579",
+    "vendor": "BAYER",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 6990,
+    "compare_at_price": 8990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/bepanthol-regeneradora-pomada-30-g-21579.png",
+      "alt": "Bepanthol Regeneradora Pomada 30 g",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/bepanthol-regeneradora-pomada-30-g-21579.png",
+        "alt": "Bepanthol Regeneradora Pomada 30 g",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo y Cuidado Bebé y Madre",
+      "BAYER",
+      "CM 21579",
+      "Irritación y coceduras",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS",
+      "Pomada",
+      "oferta"
+    ],
+    "collections": [
+      "mundo-bebe"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Irritación y coceduras",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Pomada",
+        "presentacion": "30 g"
+      }
+    }
+  },
+  {
+    "id": 15909815353504,
+    "title": "Proxona 50mcg Susp. Nasal x 140 Dosis",
+    "handle": "proxona-50mcg-susp-nasal-x-140-dosis-22068",
+    "vendor": "PHARMATECH",
+    "product_type": "Sistema Respiratorio y Alergias",
+    "price": 8990,
+    "compare_at_price": 10090,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/proxona-50mcg-susp-nasal-x-140-dosis-22068.jpg",
+      "alt": "Proxona 50mcg Susp. Nasal x 140 Dosis",
+      "width": 316,
+      "height": 632
+    },
+    "images": [
+      {
+        "src": "assets/images/products/proxona-50mcg-susp-nasal-x-140-dosis-22068.jpg",
+        "alt": "Proxona 50mcg Susp. Nasal x 140 Dosis",
+        "width": 316,
+        "height": 632
+      }
+    ],
+    "tags": [
+      "Con Receta",
+      "Medicamentos",
+      "Sistema Respiratorio y Alergias",
+      "oferta"
+    ],
+    "collections": [
+      "sistema-respiratorio-y-alergias"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Mometasona",
+        "accion_terapeutica": "Corticosteroide nasal",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Con Receta",
+        "forma_farmaceutica": "Spray",
+        "presentacion": "140 dosis"
+      }
+    }
+  },
+  {
+    "id": 15905388920992,
+    "title": "Tosedrin Jarabe 30 mg/5 ml Envase 120 ml",
+    "handle": "tosedrin-jarabe-30-mg-5-ml-envase-120-ml-8384",
+    "vendor": "CHEMOPHARMA",
+    "product_type": "Sistema Respiratorio y Alergias",
+    "price": 7490,
+    "compare_at_price": 8990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/tosedrin-jarabe-30-mg-5-ml-envase-120-ml-8384.png",
+      "alt": "Tosedrin Jarabe 30 mg/5 ml Envase 120 ml",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/tosedrin-jarabe-30-mg-5-ml-envase-120-ml-8384.png",
+        "alt": "Tosedrin Jarabe 30 mg/5 ml Envase 120 ml",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CHEMOPHARMA",
+      "CM 8384",
+      "Con receta",
+      "Jarabe",
+      "MARCAS",
+      "Medicamentos",
+      "Sistema Respiratorio y Alergias",
+      "oferta"
+    ],
+    "collections": [
+      "sistema-respiratorio-y-alergias"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Levodropropizina",
+        "accion_terapeutica": "Trat. sintomático de la tos no productiva, Antitusivo",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Con receta",
+        "forma_farmaceutica": "Jarabe",
+        "presentacion": "120ml"
+      }
+    }
+  },
+  {
+    "id": 15905388855456,
+    "title": "Tiriz 5 mg Comprimidos Recubiertos x 30",
+    "handle": "tiriz-5-mg-comprimidos-recubiertos-x-30-20199",
+    "vendor": "EUROMED",
+    "product_type": "Sistema Respiratorio y Alergias",
+    "price": 6390,
+    "compare_at_price": 7990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/tiriz-5-mg-comprimidos-recubiertos-x-30-20199.png",
+      "alt": "Tiriz 5 mg Comprimidos Recubiertos x 30",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/tiriz-5-mg-comprimidos-recubiertos-x-30-20199.png",
+        "alt": "Tiriz 5 mg Comprimidos Recubiertos x 30",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 11258",
+      "Comprimidos",
+      "Con receta",
+      "EUROMED",
+      "MARCAS",
+      "Medicamentos",
+      "Sistema Respiratorio y Alergias",
+      "oferta"
+    ],
+    "collections": [
+      "sistema-respiratorio-y-alergias"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Levocetirizina",
+        "accion_terapeutica": "Antialérgico",
+        "bioequivalente": "Si",
+        "condicion_de_venta": "Con receta",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "30 COMP."
+      }
+    }
+  },
+  {
+    "id": 15905388789920,
+    "title": "Rupafin Solución Oral Frasco 120 ml",
+    "handle": "rupafin-solucion-oral-frasco-120-ml-17325",
+    "vendor": "ITF - LABOMED",
+    "product_type": "Sistema Respiratorio y Alergias",
+    "price": 17490,
+    "compare_at_price": 20990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/rupafin-solucion-oral-frasco-120-ml-17325.png",
+      "alt": "Rupafin Solución Oral Frasco 120 ml",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/rupafin-solucion-oral-frasco-120-ml-17325.png",
+        "alt": "Rupafin Solución Oral Frasco 120 ml",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 17325",
+      "Con receta",
+      "ITF - LABOMED",
+      "MARCAS",
+      "Medicamentos",
+      "Sistema Respiratorio y Alergias",
+      "Solución",
+      "oferta"
+    ],
+    "collections": [
+      "sistema-respiratorio-y-alergias"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Rupatadina",
+        "accion_terapeutica": "Antihistamínico",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Con receta",
+        "forma_farmaceutica": "Solución",
+        "presentacion": "120ml"
+      }
+    }
+  },
+  {
+    "id": 15837469868192,
+    "title": "Geniol Día Sobre x 1",
+    "handle": "geniol-dia-sobre-x-1-3752",
+    "vendor": "MINTLAB",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 590,
+    "compare_at_price": 990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/geniol-dia-sobre-x-1-3752.png",
+      "alt": "Geniol Día Sobre x 1",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/geniol-dia-sobre-x-1-3752.png",
+        "alt": "Geniol Día Sobre x 1",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "CM 3752",
+      "Dolor",
+      "Dolor Fiebre y Antiinflamatorio Marca",
+      "Fiebre y Antiinflamatorio",
+      "MARCAS",
+      "Medicamentos",
+      "MINTLAB",
+      "OTC",
+      "Paracetamol",
+      "Sobres",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Paracetamol",
+        "accion_terapeutica": "Antigripal",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Sobres",
+        "presentacion": "1 sobres"
+      }
+    }
+  },
+  {
+    "id": 15887318024352,
+    "title": "Centrum Comprimidos x 30",
+    "handle": "centrum-comprimidos-x-30-20624",
+    "vendor": "GSK (GLAXOSMITHKLINE)",
+    "product_type": "Suplementos, vitaminas y minerales",
+    "price": 9290,
+    "compare_at_price": 14990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/centrum-comprimidos-x-30-20624.png",
+      "alt": "Centrum Comprimidos x 30",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/centrum-comprimidos-x-30-20624.png",
+        "alt": "Centrum Comprimidos x 30",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20624",
+      "Farmaco Natural",
+      "GSK (GLAXOSMITHKLINE)",
+      "OTC",
+      "OTROS",
+      "Suplemento vitaminas y minerales",
+      "Suplementos",
+      "Vitaminas",
+      "Vitaminas y Minerales Naturales",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Vitaminas y Minerales Naturales",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "Comp."
+      }
+    }
+  },
+  {
+    "id": 15830619816096,
+    "title": "Pielarmina Crema de Manos Parafina y Caléndula",
+    "handle": "pielarmina-crema-de-manos-parafina-y-calendula-20811",
+    "vendor": "PETRIZIO",
+    "product_type": "Cuidado de la Piel y Rostro y Maquillaje",
+    "price": 1890,
+    "compare_at_price": 2990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/pielarmina-crema-de-manos-parafina-y-calendula-20811.png",
+      "alt": "Pielarmina Crema de Manos Parafina y Caléndula",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/pielarmina-crema-de-manos-parafina-y-calendula-20811.png",
+        "alt": "Pielarmina Crema de Manos Parafina y Caléndula",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "CM 20811",
+      "Cuidado de la Piel y Rostro",
+      "Cuidado de la Piel y Rostro y Maquillaje",
+      "Cuidado Personal",
+      "LUBRIDERM",
+      "OTC",
+      "OTROS",
+      "PETRIZIO",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Cuidado de la Piel y Rostro",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Crema",
+        "presentacion": "g"
+      }
+    }
+  },
+  {
+    "id": 15909810700448,
+    "title": "Jeringa 3ml 21X1 1/2 Luer Lock x 1",
+    "handle": "jeringa-3ml-21x1-1-2-luer-lock-x-1-22108",
+    "vendor": "REUTTER",
+    "product_type": "Agujas y Jeringas",
+    "price": 390,
+    "compare_at_price": 590,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/jeringa-3ml-21x1-1-2-luer-lock-x-1-22108.png",
+      "alt": "Jeringa 3ml 21X1 1/2 Luer Lock x 1",
+      "width": 800,
+      "height": 800
+    },
+    "images": [
+      {
+        "src": "assets/images/products/jeringa-3ml-21x1-1-2-luer-lock-x-1-22108.png",
+        "alt": "Jeringa 3ml 21X1 1/2 Luer Lock x 1",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "tags": [
+      "Agujas y Jeringas",
+      "Insumos Medicos",
+      "Over the counter",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Insumo Médico",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Over the counter",
+        "forma_farmaceutica": "Jeringa",
+        "presentacion": "1"
+      }
+    }
+  },
+  {
+    "id": 15888208625824,
+    "title": "Leblon F50 Antioxidante Protector 50 g",
+    "handle": "leblon-f50-antioxidante-protector-50-g-20013",
+    "vendor": "Farmacia La Botika",
+    "product_type": "Solares",
+    "price": 1990,
+    "compare_at_price": 2990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/leblon-f50-antioxidante-protector-50-g-20013.png",
+      "alt": "Leblon F50 Antioxidante Protector 50 g",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/leblon-f50-antioxidante-protector-50-g-20013.png",
+        "alt": "Leblon F50 Antioxidante Protector 50 g",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 20013",
+      "Cuidado Personal",
+      "OTC",
+      "OTROS",
+      "Solares",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Protección solar / cuidado de la piel",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "50 g"
+      }
+    }
+  },
+  {
+    "id": 15837470326944,
+    "title": "Panadol Advance 500 mg Comprimidos x 12",
+    "handle": "panadol-advance-500-mg-comprimidos-x-12-18658",
+    "vendor": "GSK (GLAXOSMITHKLINE)",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 1990,
+    "compare_at_price": 2990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/panadol-advance-500-mg-comprimidos-x-12-18658.png",
+      "alt": "Panadol Advance 500 mg Comprimidos x 12",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/panadol-advance-500-mg-comprimidos-x-12-18658.png",
+        "alt": "Panadol Advance 500 mg Comprimidos x 12",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "CM 342",
+      "Comprimidos",
+      "Dolor",
+      "Dolor Fiebre y Antiinflamatorio Marca",
+      "Fiebre y Antiinflamatorio",
+      "GSK (GLAXOSMITHKLINE)",
+      "MARCAS",
+      "Medicamentos",
+      "Paracetamol",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Paracetamol",
+        "accion_terapeutica": "Analgésico",
+        "bioequivalente": "No",
+        "condicion_de_venta": "No informado",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "12 comprimidos"
+      }
+    }
+  },
+  {
+    "id": 15837469245600,
+    "title": "Anacin Clásico 325 mg + 15 mg Comprimidos x 8",
+    "handle": "anacin-clasico-325-mg-15-mg-comprimidos-x-8-21406",
+    "vendor": "GSK (GLAXOSMITHKLINE)",
+    "product_type": "Dolor, Fiebre y Antiinflamatorio",
+    "price": 1990,
+    "compare_at_price": 2990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/anacin-clasico-325-mg-15-mg-comprimidos-x-8-21406.png",
+      "alt": "Anacin Clásico 325 mg + 15 mg Comprimidos x 8",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/anacin-clasico-325-mg-15-mg-comprimidos-x-8-21406.png",
+        "alt": "Anacin Clásico 325 mg + 15 mg Comprimidos x 8",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Acetilsalicílico ácido",
+      "Cafeína",
+      "CM 21406",
+      "Comprimidos",
+      "Dolor",
+      "Dolor Fiebre y Antiinflamatorio Marca",
+      "Fiebre y Antiinflamatorio",
+      "GSK (GLAXOSMITHKLINE)",
+      "MARCAS",
+      "Medicamentos",
+      "OTC",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "principio_activo": "Acetilsalicílico ácido, Cafeína",
+        "accion_terapeutica": "Analgésico",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "forma_farmaceutica": "Comprimidos",
+        "presentacion": "8 comprimidos"
+      }
+    }
+  },
+  {
+    "id": 15814521847968,
+    "title": "Nenegloss Pomada Regeneradora 20 g",
+    "handle": "nenegloss-pomada-regeneradora-20-g-22626",
+    "vendor": "LABORATORIOS MAVER",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 1990,
+    "compare_at_price": 2990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/nenegloss-pomada-regeneradora-20-g-22626.png",
+      "alt": "Nenegloss Pomada Regeneradora 20 g",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/nenegloss-pomada-regeneradora-20-g-22626.png",
+        "alt": "Nenegloss Pomada Regeneradora 20 g",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo y Cuidado Bebé y Madre",
+      "CM 22626",
+      "Irritación y coceduras",
+      "LABORATORIOS MAVER",
+      "Mundo Bebe",
+      "NENEGLOSS",
+      "OTC",
+      "OTROS",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Irritación y coceduras",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "20 g"
+      }
+    }
+  },
+  {
+    "id": 15885908607136,
+    "title": "Curaprox 1560 Soft",
+    "handle": "curaprox-1560-soft-16685",
+    "vendor": "CURAPROX",
+    "product_type": "Salud e Higiene Bucal",
+    "price": 5990,
+    "compare_at_price": 8990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/curaprox-1560-soft-16685.png",
+      "alt": "Curaprox 1560 Soft",
+      "width": 1500,
+      "height": 1500
+    },
+    "images": [
+      {
+        "src": "assets/images/products/curaprox-1560-soft-16685.png",
+        "alt": "Curaprox 1560 Soft",
+        "width": 1500,
+        "height": 1500
+      }
+    ],
+    "tags": [
+      "CM 16685",
+      "Cuidado Personal",
+      "CURAPROX",
+      "Higiene Bucal",
+      "OTC",
+      "OTROS",
+      "Salud e Higiene Bucal",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Higiene bucal / cuidado oral",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "x 1560"
+      }
+    }
+  },
+  {
+    "id": 15814522011808,
+    "title": "Simonds Cotonitos de Papel x 200",
+    "handle": "simonds-cotonitos-de-papel-x-200-5243",
+    "vendor": "DURANDIN",
+    "product_type": "Aseo y Cuidado Bebé y Madre",
+    "price": 2690,
+    "compare_at_price": 3990,
+    "available": true,
+    "featured_image": {
+      "src": "assets/images/products/simonds-cotonitos-de-papel-x-200-5243.png",
+      "alt": "Simonds Cotonitos de Papel x 200",
+      "width": 1000,
+      "height": 1000
+    },
+    "images": [
+      {
+        "src": "assets/images/products/simonds-cotonitos-de-papel-x-200-5243.png",
+        "alt": "Simonds Cotonitos de Papel x 200",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "tags": [
+      "Aseo Bebe",
+      "Aseo y Cuidado Bebé y Madre",
+      "CM 5243",
+      "DURANDIN",
+      "Mundo Bebe",
+      "OTC",
+      "OTROS",
+      "SIMONDS",
+      "oferta"
+    ],
+    "collections": [
+      "oferta"
+    ],
+    "metafields": {
+      "ficha": {
+        "accion_terapeutica": "Aseo Bebe",
+        "bioequivalente": "No",
+        "condicion_de_venta": "Directa / Venta libre",
+        "presentacion": "x 200"
+      }
+    }
+  }
+]

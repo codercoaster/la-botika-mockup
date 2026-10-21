@@ -1,0 +1,68 @@
+<!-- Section: footer → sections/footer.liquid (link columns from linklists; newsletter via {% form 'customer' %}) -->
+<link rel="stylesheet" href="assets/section-footer.css">
+<script src="assets/section-footer.js" defer></script>
+
+<footer class="site-footer" data-section="footer">
+  <div class="container">
+    <div class="site-footer__top">
+      <div class="site-footer__brand">
+        <a class="site-footer__logo" href="index.html">
+          <img src="assets/images/logo.png" alt="Farmacias La Botika" width="690" height="170" loading="lazy">
+        </a>
+        <p>Más de 17 años brindando un servicio de calidad y acceso a medicamentos a la comunidad.</p>
+        <form class="site-footer__newsletter" data-newsletter>
+          <label for="footer-email">Recibe novedades y beneficios</label>
+          <div>
+            <input id="footer-email" type="email" name="email" placeholder="Tu email" required autocomplete="email">
+            <button class="button" type="submit">Suscribir</button>
+          </div>
+        </form>
+      </div>
+
+      <nav class="site-footer__col" aria-labelledby="footer-col-1">
+        <h3 id="footer-col-1">Farmacia La Botika</h3>
+        <ul role="list">
+          <li><a href="https://farmacialabotika.cl/pages/quienes-somos">Quiénes somos</a></li>
+          <li><a href="https://farmacialabotika.cl/pages/nuestras-sucursales">Nuestras sucursales</a></li>
+          <li><a href="#">Precios La Botika</a></li>
+          <li><a href="#">Monografías de medicamentos</a></li>
+          <li><a href="#">Decretos Minsal</a></li>
+        </ul>
+      </nav>
+
+      <nav class="site-footer__col" aria-labelledby="footer-col-2">
+        <h3 id="footer-col-2">Servicio al cliente</h3>
+        <ul role="list">
+          <li><a href="#">Términos y condiciones</a></li>
+          <li><a href="#">Política de cambios</a></li>
+          <li><a href="#">Formulario de reclamo</a></li>
+          <li><a href="#">Formulario de devoluciones</a></li>
+          <li><a href="#">Carta de desabastecimiento</a></li>
+        </ul>
+      </nav>
+
+      <div class="site-footer__col site-footer__help">
+        <h3>¿Necesitas ayuda?</h3>
+        <a class="site-footer__phone" href="tel:+56991322673">
+          <span>Dudas farmacológicas</span>
+          <strong>+56 9 9132 2673</strong>
+        </a>
+        <a class="site-footer__phone" href="tel:600360777">
+          <span>Salud Responde</span>
+          <strong>600 360 777</strong>
+        </a>
+        <a class="site-footer__phone" href="tel:+56226353800">
+          <span>Emergencias toxicológicas (CITUC)</span>
+          <strong>+56 2 2635 3800</strong>
+        </a>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>© 2026 Farmacia La Botika. Todos los derechos reservados.</p>
+      <ul class="site-footer__payments" role="list" aria-label="Medios de pago">
+        <li>Webpay</li><li>Redcompra</li><li>Visa</li><li>Mastercard</li>
+      </ul>
+    </div>
+  </div>
+</footer>

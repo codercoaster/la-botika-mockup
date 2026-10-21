@@ -1,0 +1,79 @@
+<!-- Section: header → sections/header.liquid (menu from linklists.main-menu, cart count from cart.item_count) -->
+<link rel="stylesheet" href="assets/section-header.css">
+<script src="assets/section-header.js" defer></script>
+
+<header class="site-header" data-section="header">
+  <div class="container site-header__bar">
+    <button class="site-header__icon-btn site-header__menu-btn" type="button" aria-controls="menu-drawer" aria-expanded="false" data-drawer-open>
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      <span class="visually-hidden">Abrir menú</span>
+    </button>
+
+    <a class="site-header__logo" href="index.html">
+      <img src="assets/images/logo.png" alt="Farmacias La Botika — Con toda confianza" width="690" height="170">
+    </a>
+
+    <form class="site-header__search" action="collection.html" role="search">
+      <label class="visually-hidden" for="header-search">Buscar productos</label>
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="header-search" type="search" name="q" placeholder="Buscar medicamentos, marcas o principio activo" autocomplete="off">
+      <button class="button site-header__search-submit" type="submit">Buscar</button>
+    </form>
+
+    <nav class="site-header__actions" aria-label="Accesos">
+      <a class="site-header__action site-header__action--branches" href="https://farmacialabotika.cl/pages/nuestras-sucursales">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+        <span class="site-header__action-label">Sucursales</span>
+      </a>
+      <a class="site-header__action" href="#">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg>
+        <span class="site-header__action-label">Mi cuenta</span>
+      </a>
+      <a class="site-header__action site-header__cart" href="#">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h2l2.4 11.2a2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.5L21 8H6.2"/><circle cx="10" cy="20.5" r="1"/><circle cx="17" cy="20.5" r="1"/></svg>
+        <span class="site-header__action-label">Carro</span>
+        <span class="site-header__cart-count" data-cart-count aria-label="0 productos en el carro">0</span>
+      </a>
+    </nav>
+  </div>
+
+  <nav class="site-header__nav" aria-label="Categorías">
+    <ul class="container site-header__nav-list" role="list">
+      <li><a href="collection.html">Medicamentos</a></li>
+      <li><a href="collection.html">Vitaminas y suplementos</a></li>
+      <li><a href="collection.html">Cuidado personal</a></li>
+      <li><a href="collection.html">Mundo bebé</a></li>
+      <li><a href="collection.html">Adulto mayor</a></li>
+      <li><a href="collection.html">Fármaco natural</a></li>
+      <li><a href="collection.html">Insumos médicos</a></li>
+      <li><a class="site-header__nav-sale" href="collection.html">Ofertas</a></li>
+    </ul>
+  </nav>
+
+  <div class="menu-drawer" id="menu-drawer" inert>
+    <div class="menu-drawer__overlay" data-drawer-close></div>
+    <div class="menu-drawer__panel" role="dialog" aria-modal="true" aria-label="Menú">
+      <div class="menu-drawer__head">
+        <img src="assets/images/logo.png" alt="" width="690" height="170">
+        <button class="site-header__icon-btn" type="button" data-drawer-close>
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          <span class="visually-hidden">Cerrar menú</span>
+        </button>
+      </div>
+      <ul class="menu-drawer__list" role="list">
+        <li><a href="collection.html">Medicamentos</a></li>
+        <li><a href="collection.html">Vitaminas y suplementos</a></li>
+        <li><a href="collection.html">Cuidado personal</a></li>
+        <li><a href="collection.html">Mundo bebé</a></li>
+        <li><a href="collection.html">Adulto mayor</a></li>
+        <li><a href="collection.html">Fármaco natural</a></li>
+        <li><a href="collection.html">Insumos médicos</a></li>
+        <li><a class="site-header__nav-sale" href="collection.html">Ofertas</a></li>
+      </ul>
+      <a class="button button--blue menu-drawer__cta" href="https://farmacialabotika.cl/pages/nuestras-sucursales">
+        <svg class="icon icon--sm" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+        Encuentra tu sucursal
+      </a>
+    </div>
+  </div>
+</header>

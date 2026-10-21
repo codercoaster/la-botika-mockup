@@ -1,0 +1,65 @@
+<!-- Section: category-tiles → sections/category-tiles.liquid (each tile is a block: collection, icon, tint) -->
+<link rel="stylesheet" href="assets/section-category-tiles.css">
+<script src="assets/section-category-tiles.js" defer></script>
+
+<section class="category-tiles" data-section="category-tiles">
+  <div class="container">
+    <h2 class="visually-hidden">Categorías</h2>
+    <ul class="category-tiles__grid" role="list">
+      <li data-reveal>
+        <a class="category-tile" href="collection.html" style="--tile: var(--color-blue-tint); --tile-ink: var(--color-blue)">
+          <span class="category-tile__icon">
+            <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="8.5" width="19" height="7" rx="3.5" transform="rotate(-45 12 12)"/><path d="M8.5 8.5l7 7"/></svg>
+          </span>
+          <span class="category-tile__label">Medicamentos</span>
+          <span class="category-tile__meta">Con y sin receta</span>
+        </a>
+      </li>
+      <li data-reveal>
+        <a class="category-tile" href="collection.html" style="--tile: #fff4e0; --tile-ink: #b45f00">
+          <span class="category-tile__icon">
+            <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19c0-8 5-14 15-14 0 10-6 15-14 15"/><path d="M5 19c3-4 6-6.5 10-8.5"/></svg>
+          </span>
+          <span class="category-tile__label">Vitaminas y suplementos</span>
+          <span class="category-tile__meta">Energía y defensas</span>
+        </a>
+      </li>
+      <li data-reveal>
+        <a class="category-tile" href="collection.html" style="--tile: #fdeef3; --tile-ink: #b4235a">
+          <span class="category-tile__icon">
+            <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3c3.5 4.2 6 7.6 6 10.6A6 6 0 0 1 6 13.6C6 10.6 8.5 7.2 12 3z"/><path d="M9.5 14.5a2.5 2.5 0 0 0 2.5 2.5"/></svg>
+          </span>
+          <span class="category-tile__label">Dermocosmética</span>
+          <span class="category-tile__meta">Piel, rostro y solar</span>
+        </a>
+      </li>
+      <li data-reveal>
+        <a class="category-tile" href="collection.html" style="--tile: #e8f6f3; --tile-ink: #0b7a68">
+          <span class="category-tile__icon">
+            <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6M10 3v3M14 3v3"/><path d="M8 9a2 2 0 0 1 2-3h4a2 2 0 0 1 2 3v10a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2z"/><path d="M8 12.5h3M8 16h3"/></svg>
+          </span>
+          <span class="category-tile__label">Mundo bebé</span>
+          <span class="category-tile__meta">Mamá y bebé</span>
+        </a>
+      </li>
+      <li data-reveal>
+        <a class="category-tile" href="collection.html" style="--tile: #efedfb; --tile-ink: #5442b8">
+          <span class="category-tile__icon">
+            <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-9-9a5 5 0 0 1 9-4 5 5 0 0 1 9 4c-2 4.6-9 9-9 9z"/><path d="M7 12h2.5l1.5-2.5 2 5 1.5-2.5H17"/></svg>
+          </span>
+          <span class="category-tile__label">Adulto mayor</span>
+          <span class="category-tile__meta">Cuidado diario</span>
+        </a>
+      </li>
+      <li data-reveal>
+        <a class="category-tile category-tile--sale" href="collection.html" style="--tile: var(--color-red); --tile-ink: #fff">
+          <span class="category-tile__icon">
+            <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12V4a1 1 0 0 1 1-1h8l9 9-9 9z"/><circle cx="8" cy="8" r="1.5"/></svg>
+          </span>
+          <span class="category-tile__label">Ofertas</span>
+          <span class="category-tile__meta">Precios rebajados</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>

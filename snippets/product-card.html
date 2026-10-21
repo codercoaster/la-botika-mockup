@@ -1,0 +1,28 @@
+<!--
+  Snippet: product-card  →  snippets/product-card.liquid
+  Inline this <template> once per page; assets/product-card.js clones it.
+  In Liquid, render server-side with {% render 'product-card', product: product %}
+  and map the data-field hooks to product.url, product.featured_image, product.vendor,
+  product.title, product.price | money, product.compare_at_price | money.
+-->
+<template id="product-card-template">
+  <article class="product-card">
+    <a class="product-card__media" data-field="url" tabindex="-1" aria-hidden="true">
+      <img class="product-card__image" data-field="image" alt="" loading="lazy" width="400" height="400">
+      <span class="product-card__badge product-card__badge--sale" data-field="discount" hidden></span>
+      <span class="product-card__badge product-card__badge--rx" data-field="rx" hidden>Con receta</span>
+    </a>
+    <div class="product-card__body">
+      <p class="product-card__vendor" data-field="vendor"></p>
+      <h3 class="product-card__title"><a data-field="title"></a></h3>
+      <p class="product-card__price">
+        <span class="product-card__price-current" data-field="price"></span>
+        <s class="product-card__price-compare" data-field="compare" hidden></s>
+      </p>
+      <button type="button" class="button product-card__add" data-add-to-cart>
+        <svg class="icon icon--sm" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h2l2.4 11.2a2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.5L21 8H6.2"/><circle cx="10" cy="20.5" r="1"/><circle cx="17" cy="20.5" r="1"/></svg>
+        <span data-label>Agregar</span>
+      </button>
+    </div>
+  </article>
+</template>

@@ -1,0 +1,35 @@
+/* Section: announcement-bar */
+.announcement-bar {
+  background: var(--color-blue);
+  color: #fff;
+  font-size: var(--text-xs);
+  font-weight: 600;
+}
+.announcement-bar__inner { min-height: 44px; display: flex; align-items: center; }
+.announcement-bar__list {
+  position: relative;
+  display: grid;
+  width: 100%;
+  min-height: 44px;
+}
+.announcement-bar__item {
+  grid-area: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  text-align: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s, visibility 0.5s;
+}
+.announcement-bar__item.is-active { opacity: 1; visibility: visible; }
+.announcement-bar__item .icon { color: var(--color-blue-light); }
+.announcement-bar a { text-decoration: underline; text-underline-offset: 3px; font-weight: 800; }
+.announcement-bar__muted { opacity: 0.75; }
+
+/* Desktop: all messages side by side, no rotation */
+@media (min-width: 1100px) {
+  .announcement-bar__list { display: flex; justify-content: space-between; gap: 2rem; }
+  .announcement-bar__item { opacity: 1; visibility: visible; }
+}

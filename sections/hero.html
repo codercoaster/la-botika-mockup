@@ -1,0 +1,87 @@
+<!-- Section: hero → sections/hero.liquid (heading, text, featured product images and badges become settings/blocks) -->
+<link rel="stylesheet" href="assets/section-hero.css">
+<script src="assets/section-hero.js" defer></script>
+
+<section class="hero" data-section="hero">
+  <div class="hero__deco" aria-hidden="true">
+    <span class="hero__blob hero__blob--red" data-depth="0.6"></span>
+    <span class="hero__blob hero__blob--blue" data-depth="1"></span>
+    <span class="hero__dots" data-depth="0.4"></span>
+  </div>
+
+  <div class="container hero__inner">
+    <div class="hero__content">
+      <p class="eyebrow hero__intro">
+        <span class="hero__pulse" aria-hidden="true"></span>
+        Más de 17 años contigo
+      </p>
+      <h1 class="hero__title hero__intro">Tu salud, <span class="hero__accent">con toda confianza</span>.</h1>
+      <p class="hero__lead hero__intro">Medicamentos a precio justo, atención cercana y 16 sucursales en Santiago. Encuentra lo que necesitas en segundos.</p>
+
+      <form class="hero__search hero__intro" action="collection.html" role="search">
+        <label class="visually-hidden" for="hero-search">¿Qué estás buscando?</label>
+        <svg class="icon icon--lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input id="hero-search" type="search" name="q" placeholder="¿Qué estás buscando?" autocomplete="off">
+        <button class="button button--lg" type="submit">Buscar</button>
+      </form>
+
+      <div class="hero__popular hero__intro">
+        <span class="hero__popular-label">Lo más buscado:</span>
+        <a class="chip" href="collection.html?q=paracetamol">Paracetamol</a>
+        <a class="chip" href="collection.html?q=vitamina+c">Vitamina C</a>
+        <a class="chip" href="collection.html?q=protector+solar">Protector solar</a>
+      </div>
+    </div>
+
+    <div class="hero__visual" aria-hidden="true">
+      <div class="hero__stage">
+        <a class="hero__product hero__product--a" href="product.html?handle=centrum-comprimidos-x-30-20624" data-depth="1.2" tabindex="-1">
+          <span class="hero__product-media">
+            <img src="assets/images/products/centrum-comprimidos-x-30-20624.png" alt="" width="800" height="800">
+            <span class="hero__product-badge">-38%</span>
+          </span>
+          <span class="hero__product-body">
+            <span class="hero__product-vendor">GSK</span>
+            <span class="hero__product-title">Centrum Comprimidos x 30</span>
+            <span class="hero__product-price">$9.290 <s>$14.990</s></span>
+          </span>
+        </a>
+        <a class="hero__product hero__product--b" href="product.html?handle=eucerin-atopi-control-crema-corporal-forte-100-ml-22637" data-depth="0.7" tabindex="-1">
+          <span class="hero__product-media">
+            <img src="assets/images/products/eucerin-atopi-control-crema-corporal-forte-100-ml-22637.png" alt="" width="800" height="800">
+            <span class="hero__product-badge">-14%</span>
+          </span>
+          <span class="hero__product-body">
+            <span class="hero__product-vendor">Eucerin</span>
+            <span class="hero__product-title">Eucerin Atopi Control Crema Forte 100 ml</span>
+            <span class="hero__product-price">$24.990 <s>$28.990</s></span>
+          </span>
+        </a>
+        <a class="hero__product hero__product--c" href="product.html?handle=muno-gotas-x-10-ml-21859" data-depth="1.6" tabindex="-1">
+          <span class="hero__product-media">
+            <img src="assets/images/products/muno-gotas-x-10-ml-21859.png" alt="" width="800" height="800">
+            <span class="hero__product-badge">-14%</span>
+          </span>
+          <span class="hero__product-body">
+            <span class="hero__product-vendor">Axon Pharma</span>
+            <span class="hero__product-title">Muno Gotas x 10 ml</span>
+            <span class="hero__product-price">$24.990 <s>$28.990</s></span>
+          </span>
+        </a>
+
+        <div class="hero__badge hero__badge--cenabast" data-float>
+          <span class="hero__badge-icon">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.6-3 8.6-7 10-4-1.4-7-5.4-7-10V6z"/><path d="M8.5 12l2.5 2.5 4.5-5"/></svg>
+          </span>
+          <span><strong>Convenio CENABAST</strong><br>Precio justo</span>
+        </div>
+        <div class="hero__badge hero__badge--branches" data-float>
+          <span class="hero__badge-icon hero__badge-icon--red">
+            <svg class="icon" viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+          </span>
+          <span><strong>16 sucursales</strong><br>en Santiago</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
