@@ -1,10 +1,9 @@
-/* Section: hero — intro stagger, layered parallax, floating badges. */
+/* Section: hero — intro stagger, layered parallax, idle float. */
 Theme.register('hero', (root) =>
   Theme.animate(root, () => {
     gsap.from('.hero__intro', { opacity: 0, y: 24, duration: 0.9, ease: 'power3.out', stagger: 0.09, delay: 0.1 });
-    // Intro tweens leave `y` alone — parallax and float own it.
+    // Intro tweens leave `y` alone — parallax owns it.
     gsap.from('.hero__product', { opacity: 0, scale: 0.8, duration: 1.1, ease: 'back.out(1.4)', stagger: 0.12, delay: 0.25 });
-    gsap.from('.hero__badge', { opacity: 0, scale: 0.9, duration: 0.8, ease: 'power3.out', stagger: 0.15, delay: 0.7 });
 
     // Depth-based parallax: higher data-depth moves more (max ~60px).
     root.querySelectorAll('[data-depth]').forEach((el) => {
@@ -16,8 +15,9 @@ Theme.register('hero', (root) =>
       });
     });
 
-    root.querySelectorAll('[data-float]').forEach((el, i) => {
-      gsap.to(el, { y: -8, duration: 2.4 + i * 0.4, ease: 'sine.inOut', repeat: -1, yoyo: true, delay: 1.2 + i * 0.3 });
+    // Gentle idle float on yPercent so it stacks with the parallax `y`.
+    root.querySelectorAll('.hero__product').forEach((el, i) => {
+      gsap.to(el, { yPercent: -3, duration: 2.6 + i * 0.4, ease: 'sine.inOut', repeat: -1, yoyo: true, delay: 1.2 + i * 0.3 });
     });
   })
 );

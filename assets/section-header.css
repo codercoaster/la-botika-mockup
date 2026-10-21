@@ -2,11 +2,21 @@
 .section-header { position: sticky; top: 0; z-index: 50; }
 
 .site-header {
+  position: relative;
+  isolation: isolate;
+  border-bottom: 1px solid var(--color-border);
+  transition: box-shadow 0.3s;
+}
+/* Blur lives on a pseudo-element: backdrop-filter on .site-header itself would
+   become the containing block for the fixed .menu-drawer and clip it. */
+.site-header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
   background: rgba(255, 255, 255, 0.96);
   backdrop-filter: saturate(1.6) blur(12px);
   -webkit-backdrop-filter: saturate(1.6) blur(12px);
-  border-bottom: 1px solid var(--color-border);
-  transition: box-shadow 0.3s;
 }
 .site-header.is-scrolled { box-shadow: 0 10px 30px -18px rgba(0, 53, 128, 0.45); }
 

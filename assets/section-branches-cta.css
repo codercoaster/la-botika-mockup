@@ -15,6 +15,11 @@
 .branches-cta__copy > p { margin-top: 0.8rem; color: var(--color-muted); max-width: 44ch; }
 
 .branches-cta__actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 2rem; }
+@media (max-width: 639px) {
+  /* Stack full-width so both buttons match instead of wrapping to different sizes */
+  .branches-cta__actions { flex-direction: column; }
+  .branches-cta__actions .button { padding-inline: 1.25rem; white-space: nowrap; }
+}
 
 .branches-cta__map {
   position: relative;

@@ -35,8 +35,25 @@
   transition: transform 0.35s var(--ease);
 }
 .category-tile:hover .category-tile__icon { transform: scale(1.08) rotate(-4deg); }
-.category-tile__label { font-weight: 800; font-size: var(--text-base); line-height: 1.25; color: var(--color-text); }
-.category-tile__meta { font-size: var(--text-xs); color: var(--color-muted); }
+.category-tile__label {
+  font-weight: 800;
+  /* Eases down to 16px on narrow phones so long names fit the 2-col tile; full size from ~520px */
+  font-size: clamp(1rem, 0.8rem + 1vw, var(--text-base));
+  line-height: 1.25;
+  color: var(--color-text);
+  text-wrap: balance;
+  /* Last resort (320px + enlarged system font): hyphenate in Spanish instead of spilling out */
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+.category-tile__meta { font-size: var(--text-xs); color: var(--color-muted); text-wrap: balance; }
+
+@media (max-width: 639px) {
+  .category-tiles { margin-top: 0; } /* no overlap on phones: the hero stage reaches its bottom edge */
+  .category-tile { padding: 0.875rem; }
+  .category-tile__label { letter-spacing: -0.01em; }
+  .category-tile__icon { width: 48px; height: 48px; margin-bottom: 0.6rem; border-radius: 14px; }
+}
 
 .category-tile--sale { background: var(--color-red); box-shadow: var(--shadow-lg); }
 .category-tile--sale .category-tile__icon { background: rgba(255, 255, 255, 0.18); }
