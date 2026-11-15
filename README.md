@@ -1,32 +1,33 @@
-# La Botika Mockup
+[![CoderCoaster — Construimos el software que mueve tu negocio.](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/header.svg)](https://codercoaster.com/?utm_source=github&utm_medium=readme&utm_campaign=la-botika-mockup)
 
-Static visual demo storefront for Farmacia La Botika. Plain HTML/CSS/vanilla JS + GSAP/ScrollTrigger and Lenis from CDN. No build step: open `index.html` or deploy the repo as-is to GitHub Pages.
+### La Botika
 
-## Structure (mirrors a Shopify OS 2.0 theme)
+Disponible en [codercoaster.github.io/la-botika-mockup](https://codercoaster.github.io/la-botika-mockup/) Diseñado y desarrollado por [CoderCoaster](https://codercoaster.com/?utm_source=github&utm_medium=readme&utm_campaign=la-botika-mockup).
 
-| Here | Shopify |
-|---|---|
-| `layout/theme.html` | `layout/theme.liquid` |
-| `templates/index.html` (section markers + settings) | `templates/index.json` |
-| `sections/<name>.html` (`{{ section.settings.x }}` placeholders) | `sections/<name>.liquid` |
-| `snippets/product-card.html` | `snippets/product-card.liquid` |
-| `assets/section-<name>.css/.js`, `base.css`, `theme.js` | `assets/` |
-| `data/products.json` (Shopify product fields) | the store's products |
+[![](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/divider.svg)](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/divider.svg)
 
-Each section's JS registers with `Theme.register(name, init)`, initialises inside its own `[data-section]` root, returns a cleanup function, and re-runs on `shopify:section:load` / `shopify:section:unload`.
+### 👋 ¿Curioseando el código?
 
-## Editing
+Entonces seguro te importa cómo están hechas las cosas. A nosotros también.
 
-The root pages are generated from `layout/`, `templates/` and `sections/`, and they're committed. After editing any of those, re-run:
+Este sitio es uno de nuestros proyectos. Si quieres algo parecido — o algo totalmente distinto — podemos construirlo:
 
-```sh
-python3 -I scripts/assemble.py
-```
+- **Sitios web y SEO** — sitios rápidos que se encuentran en Google.
+- **CRMs y herramientas internas** — pensados para cómo trabaja tu equipo de verdad.
+- **Apps móviles** — iOS y Android, hechas para usarse todos los días.
+- **Agentes de IA** — atienden llamadas, responden llamadas perdidas por SMS, chatean y agendan turnos, 24/7.
+- **Cualquier otra cosa** — si es software, lo podemos hacer.
 
-`scripts/fetch-products.py` refreshes `data/` and the images from farmacialabotika.cl (one-off).
+[![](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/divider.svg)](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/divider.svg)
 
-## Local preview
+### ¿Te subes?
 
-```sh
-python3 -m http.server 8765   # http://localhost:8765
-```
+Respondemos en menos de un día hábil.
+
+![Contáctanos](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/cta.svg)
+
+[![Sitio web](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/web.svg)](https://codercoaster.com) [![LinkedIn](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/linkedin.svg)](https://www.linkedin.com/company/codercoaster/) [![Instagram](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/instagram.svg)](https://www.instagram.com/coder.coaster/) ![Email](https://raw.githubusercontent.com/codercoaster/codercoaster/main/assets/email.svg)
+
+---
+
+*Este repositorio es público para que GitHub Pages pueda servir el sitio. El contenido, la marca y las imágenes pertenecen a La Botika — por favor no los reutilices.*
